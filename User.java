@@ -5,7 +5,7 @@ public String nom;
 public String email;
 public String motDePasse;
 public String phone;
-
+// resolved
 public User()
 {
 	
